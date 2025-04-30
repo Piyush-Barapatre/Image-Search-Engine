@@ -1,2 +1,3 @@
-# Image-Search-Engine
-Image Searcher is a web application that lets users search for any type of image using the Unsplash API. Built with HTML, CSS, and JavaScript, it fetches and displays high-quality images in real-time with a simple and responsive user interface.
+# Image-Searcher-
+This is a Image searcher where you can search any type of images you want.<br>
+It is developed by using <b>HTML,CSS,Javascript</b> and to fetch and display the images <b>Unsplash API</b> is used.
